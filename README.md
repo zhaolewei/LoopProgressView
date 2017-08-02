@@ -40,6 +40,6 @@ allprojects {
 
 ## Use
 ````java
-    progressView.setProgerss(progress); //设置顺时针旋转的角度  
+    progressView.setProgerss(progress); //设置进度  
 
 ````
