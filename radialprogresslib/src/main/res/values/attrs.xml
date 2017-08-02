@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoopProgressView">
+        <attr name="lpv_progressLineColor" format="color" />
+        <attr name="lpv_backgroundLineColor" format="color" />
+        <attr name="lpv_gradualEndColor" format="color" />
+
+        <attr name="lpv_divideCount" format="integer" />
+        <attr name="lpv_progress" format="float" />
+        <attr name="lpv_isGradual" format="boolean" />
+    </declare-styleable>
+</resources>
